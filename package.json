@@ -1,0 +1,27 @@
+{
+  "name": "page-cache",
+  "version": "0.0.3",
+  "description": "Support you to store data when jump to other page, restore data when go back or jump to original page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianyn1990/page-cache.git"
+  },
+  "keywords": [
+    "cache",
+    "page",
+    "cache"
+  ],
+  "author": "tianyn1990",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianyn1990/page-cache/issues"
+  },
+  "homepage": "https://github.com/tianyn1990/page-cache#readme",
+  "dependencies": {
+    "store2": "^2.10.0"
+  }
+}
